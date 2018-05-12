@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8952
     wikipedia: http://en.wikipedia.org/wiki/Percival_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19931#The-ReckoningA-Play-in-One-Act
 gutenberg_bookshelf: One Act Plays
 gutenberg_issued: '2006-11-27'
 gutenberg_type: Text
